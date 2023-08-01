@@ -1,4 +1,5 @@
-- 👋 Hello, my name is Anthony Danzan Achit-Erdene.  
+- 👋 Hello, my name is Anthony Danzan Achit-Erdene.
+- :computer: I am a passionate Software Developer based in the Greater Boston Area.  
 - 🌌 I was born in the US :earth_americas: but I grew up in Mongolia :earth_asia:.  
-- :books: I graduated from Middlebury College in 2023 with honors in Computer Science.  
-- :briefcase: I am looking for a job in Software Development!
+- :books: I graduated from Middlebury College in 2023 with Honors in Computer Science.  
+- :briefcase: I am currently looking for a job in Software Development!
